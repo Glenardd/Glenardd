@@ -1,78 +1,71 @@
-# 👋 Hi, I'm Jan Glenard
+<h1 align="left">Hey 👋 What's up?</h1>
 
-🇵🇭 Based in the Philippines
+###
 
-I'm a **Full-Stack Developer**, **Mobile Developer**, **Game Developer**, and **Digital Artist** passionate about building applications, games, and creative digital experiences.
+<p align="left">My name is Jan Glenard and I'm a Full-Stack Developer, Mobile Developer, Game Developer, and Digital Artist, from the Philippines 🇵🇭</p>
 
-## 🚀 About Me
+###
 
-* 💻 Full-Stack Developer specializing in **TypeScript**
-* 🌐 Building modern web applications with **React.js** and **Next.js**
-* 📱 Developing mobile apps using **React Native**
-* ⚙️ Building backend services and APIs
-* 🗄️ Working with **Supabase**, **PostgreSQL**, and **MySQL**
-* 🎮 Creating games with **Phaser.js**
-* 🎨 Digital Artist and Illustrator
+<h2 align="left">About me</h2>
 
-## 🛠️ Tech Stack
+###
 
-### Frontend
+<p align="left">
+💻 Full-Stack Developer specializing in <strong>TypeScript</strong><br>
+🌐 Building modern web applications with <strong>React.js</strong> and <strong>Next.js</strong><br>
+📱 Developing mobile apps using <strong>React Native</strong><br>
+⚙️ Building backend services and REST APIs<br>
+🗄️ Working with <strong>Supabase</strong>, <strong>PostgreSQL</strong>, and <strong>MySQL</strong><br>
+🎮 Creating 2D games with <strong>Phaser.js</strong><br>
+🎨 Digital Artist and Illustrator — <a href="https://www.instagram.com/sup_nard/">@sup_nard</a><br>
+🎯 Goals: Ship meaningful products and keep growing as a developer<br>
+🎲 Fun fact: When I'm not coding, I'm creating digital illustrations and artwork
+</p>
 
-* React.js
-* Next.js
-* TypeScript
-* JavaScript
-* HTML5
-* CSS3
+###
 
-### Mobile Development
+<h2 align="left">Connect with me</h2>
 
-* React Native
-* Expo
+###
 
-### Backend & Database
+<p align="left">
+📦 GitHub: <a href="https://github.com/Glenardd">github.com/Glenardd</a><br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/jan-glenard-095b98175/">linkedin.com/in/jan-glenard</a><br>
+🎨 Art Instagram: <a href="https://www.instagram.com/sup_nard/">@sup_nard</a>
+</p>
 
-* Node.js
-* Supabase
-* PostgreSQL
-* MySQL
-* REST APIs
+###
 
-### Game Development
+<h2 align="left">I code with</h2>
 
-* Phaser.js
+###
 
-### Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel logo" />
+</div>
 
-* Git
-* GitHub
-* Clerk
-* Vercel
+###
 
-### AI Tools
-- ChatGPT
-- Claude
-- GitHub Copilot
-
-## 🎮 What I'm Building
-
-* Full-stack web applications
-* Cross-platform mobile applications
-* 2D games
-* Creative coding projects
-
-## 🎨 Digital Art
-
-When I'm not coding, I create digital illustrations and artwork.
-
-📸 Art Portfolio: @sup_nard
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/Glenardd
-* LinkedIn: https://www.linkedin.com/in/jan-glenard-095b98175/
-* Instagram (Art): https://www.instagram.com/sup_nard/
-
----
-
-> Turning ideas into web apps, mobile apps, games, and digital art.
+<p align="left"><em>Turning ideas into web apps, mobile apps, games, and digital art.</em></p>
