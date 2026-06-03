@@ -46,7 +46,7 @@ I'm a **Full-Stack Developer**, **Mobile Developer**, **Game Developer**, and **
 
 * Git
 * GitHub
-* Firebase
+* Clerk
 * Vercel
 
 ### AI Tools
