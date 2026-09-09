@@ -66,6 +66,8 @@
   <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/57x57.png" height="40" alt="vercel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="supabase logo" />
 </div>
 
 ###
