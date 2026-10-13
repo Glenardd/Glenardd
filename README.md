@@ -1,75 +1,39 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Glenard 👋
 
-###
+I'm a Computer Science graduate and junior software developer interested in building practical, reliable web and mobile applications.
 
-<p align="left">My name is Jan Glenard and I'm a Full-Stack Developer, Mobile Developer, Game Developer, and Digital Artist, from the Philippines 🇵🇭</p>
+I enjoy working across the stack, from designing user interfaces and integrating APIs to implementing backend logic, managing databases, and troubleshooting deployment issues.
 
-###
+### 🛠️ Tech Stack
 
-<h2 align="left">About me</h2>
+- **Languages:** TypeScript, JavaScript, Python, SQL, HTML, CSS
+- **Frontend:** React, Next.js, React Native, Expo, Tailwind CSS
+- **Backend:** FastAPI, REST APIs
+- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase, Supabase
+- **Tools:** Git, GitHub, Postman, Vercel, Figma
 
-###
+### 🚀 Featured Projects
 
-<p align="left">
-💻 Full-Stack Developer specializing in <strong>TypeScript</strong><br>
-🌐 Building modern web applications with <strong>React.js</strong> and <strong>Next.js</strong><br>
-📱 Developing mobile apps using <strong>React Native</strong><br>
-⚙️ Building backend services and REST APIs<br>
-🗄️ Working with <strong>Supabase</strong>, <strong>PostgreSQL</strong>, and <strong>MySQL</strong><br>
-🎮 Creating 2D games with <strong>Phaser.js</strong><br>
-🎨 Digital Artist and Illustrator — <a href="https://www.instagram.com/sup_nard/">@sup_nard</a><br>
-🎯 Goals: Ship meaningful products and keep growing as a developer<br>
-🎲 Fun fact: When I'm not coding, I'm creating digital illustrations and artwork
-</p>
+**DevPaste — Full-Stack Snippet Sharing App**
+- Built a snippet-sharing application with unique links and expiring snippets.
+- Developed a React and TypeScript frontend with a FastAPI backend and Firebase Firestore.
+- Implemented API rate limiting and API-key authorization.
+- **Tech:** React, TypeScript, FastAPI, Firebase, Vercel
 
-###
+**Projaxis — Project Scheduling Mobile App**
+- Developed a mobile scheduling and project-organizing application for a client team.
+- Implemented project scheduling features using PERT/CPM and Supabase.
+- Integrated Google-based authentication.
+- **Tech:** React Native, Expo, TypeScript, Supabase
 
-<h2 align="left">Connect with me</h2>
+**PHO Scheduling System — Web Application**
+- Collaborated with another developer on a scheduling system prototype for the Provincial Health Office of Palawan.
+- Developed staff dashboards, role-based access, API endpoints, and calendar functionality.
+- **Tech:** Next.js, TypeScript, MongoDB, Clerk, Vercel
 
-###
+### 📫 Connect With Me
 
-<p align="left">
-📦 GitHub: <a href="https://github.com/Glenardd">github.com/Glenardd</a><br>
-💼 LinkedIn: <a href="https://www.linkedin.com/in/jan-glenard-095b98175/">linkedin.com/in/jan-glenard</a><br>
-🎨 Art Instagram: <a href="https://www.instagram.com/sup_nard/">@sup_nard</a>
-</p>
+- **GitHub:** [@Glenardd](https://github.com/Glenardd)
+- **LinkedIn:** [Jan Glenard](https://www.linkedin.com/in/jan-glenard)
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/57x57.png" height="40" alt="vercel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="supabase logo" />
-</div>
-
-###
-
-<p align="left"><em>Turning ideas into web apps, mobile apps, games, and digital art.</em></p>
+I'm always looking to learn, improve my development skills, and work on projects that solve real problems.
